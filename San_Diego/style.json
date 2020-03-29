@@ -1,0 +1,488 @@
+{
+  "91911": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "Chula Vista(91911)" }
+  },
+  "92029": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "Escondido(92029)" }
+  },
+  "91941": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "La Mesa(91941)" }
+  },
+  "91942": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "La Mesa(91942)" }
+  },
+  "91945": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "Lemon Grove(91945)" }
+  },
+  "91932": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "Imperial Beach(91932)" }
+  },
+  "91950": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "National City(91950)" }
+  },
+  "92027": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "Escondido(92027)" }
+  },
+  "92014": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "Del Mar(92014)" }
+  },
+  "92025": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "Escondido(92025)" }
+  },
+  "92037": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "La Jolla(92037)" }
+  },
+  "92064": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "Poway(92064)" }
+  },
+  "92065": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "Ramona(92065)" }
+  },
+  "92067": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "Rancho Santa Fe(92067)" }
+  },
+  "92071": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "Santee(92071)" }
+  },
+  "92075": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "Solana Beach(92075)" }
+  },
+  "92093": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "La Jolla(92093)" }
+  },
+  "92161": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "San Diego(92161)" }
+  },
+  "92101": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "San Diego(92101)" }
+  },
+  "92102": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "San Diego(92102)" }
+  },
+  "92103": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "San Diego(92103)" }
+  },
+  "92104": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "San Diego(92104)" }
+  },
+  "92123": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "San Diego(92123)" }
+  },
+  "92124": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "San Diego(92124)" }
+  },
+  "92105": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "San Diego(92105)" }
+  },
+  "92106": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "San Diego(92106)" }
+  },
+  "92107": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "San Diego(92107)" }
+  },
+  "92108": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "San Diego(92108)" }
+  },
+  "92109": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "San Diego(92109)" }
+  },
+  "92110": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "San Diego(92110)" }
+  },
+  "92111": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "San Diego(92111)" }
+  },
+  "92113": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "San Diego(92113)" }
+  },
+  "92114": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "San Diego(92114)" }
+  },
+  "92115": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "San Diego(92115)" }
+  },
+  "92116": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "San Diego(92116)" }
+  },
+  "92117": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "San Diego(92117)" }
+  },
+  "92119": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "San Diego(92119)" }
+  },
+  "92120": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "San Diego(92120)" }
+  },
+  "92121": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "San Diego(92121)" }
+  },
+  "92136": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "San Diego(92136)" }
+  },
+  "92139": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "San Diego(92139)" }
+  },
+  "92122": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "San Diego(92122)" }
+  },
+  "92140": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "San Diego(92140)" }
+  },
+  "92145": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "San Diego(92145)" }
+  },
+  "92154": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "San Diego(92154)" }
+  },
+  "92126": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "San Diego(92126)" }
+  },
+  "92127": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "San Diego(92127)" }
+  },
+  "92128": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "San Diego(92128)" }
+  },
+  "92129": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "San Diego(92129)" }
+  },
+  "92130": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "San Diego(92130)" }
+  },
+  "92131": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "San Diego(92131)" }
+  },
+  "92134": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "San Diego(92134)" }
+  },
+  "92173": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "San Ysidro(92173)" }
+  },
+  "92182": {
+    "backgroundColor": "#DDDDDD",
+    "hover-state": {
+      "border-color": "#e0e0e0",
+      "border-width": 2,
+      "background-color": "#DDDDDD"
+    },
+    "tooltip": { "text": "San Diego(92182)" }
+  }
+}
